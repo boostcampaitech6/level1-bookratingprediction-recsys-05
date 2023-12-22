@@ -20,7 +20,7 @@
 | **이원희** | **허 욱** | **이승준** | **곽윤석** | **배건우** |
 | :------: |  :------: | :------: | :------: | :------: |
 | [<img src="https://avatars.githubusercontent.com/u/64073392?v=4" height=150 width=150> <br/> @lostdesire](https://github.com/lostdesire) | [<img src="https://avatars.githubusercontent.com/u/61164286?v=4" height=150 width=150> <br/> @wooksbaby](https://github.com/wooksbaby) | [<img src="https://avatars.githubusercontent.com/u/133944361?v=4" height=150 width=150> <br/> @llseungjun](https://github.com/llseungjun) | [<img src="https://avatars.githubusercontent.com/u/149780979?v=4" height=150 width=150> <br/> @younne123](https://github.com/younne123) | [<img src="https://avatars.githubusercontent.com/u/83867930?v=4" height=150 width=150> <br/> @gunwoof](https://github.com/gunwoof) |
-| EDA <br> category 전처리 <br> CatBoost 모델 설계 & 튜닝 |           |          | EDA <br> User data 전처리 <br> 모델 일반화 작업 |           |
+| EDA <br> category 전처리 <br> CatBoost 모델 설계 & 튜닝 |           |          | EDA <br> User data 전처리 <br> 모델 일반화 작업 | EDA <br> LightGbm 모델 설계 & 튜닝        |
 
 ## TOC
 ### [Project](#project)
