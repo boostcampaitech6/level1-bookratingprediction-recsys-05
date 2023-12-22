@@ -13,16 +13,16 @@
 총 3가지의 데이터 셋(users.csv, books.csv, train_ratings.csv)을 활용하여\
 이번 대회에서는 각 사용자가 주어진 책에 대해 얼마나 평점을 부여할지에 대해 예측하게 됩니다.
 
-## Stack
+# :books: Stack
 <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/VS Code-007ACC?style=plastic&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=Jupyter&logoColor=white"/>
 
-# Team
+# :star: Team
 | **이원희** | **허 욱** | **이승준** | **곽윤석** | **배건우** |
 | :------: |  :------: | :------: | :------: | :------: |
 | [<img src="https://avatars.githubusercontent.com/u/64073392?v=4" height=150 width=150> <br/> @lostdesire](https://github.com/lostdesire) | [<img src="https://avatars.githubusercontent.com/u/61164286?v=4" height=150 width=150> <br/> @wooksbaby](https://github.com/wooksbaby) | [<img src="https://avatars.githubusercontent.com/u/133944361?v=4" height=150 width=150> <br/> @llseungjun](https://github.com/llseungjun) | [<img src="https://avatars.githubusercontent.com/u/149780979?v=4" height=150 width=150> <br/> @younne123](https://github.com/younne123) | [<img src="https://avatars.githubusercontent.com/u/83867930?v=4" height=150 width=150> <br/> @gunwoof](https://github.com/gunwoof) |
-| EDA <br> category 전처리 <br> CatBoost 모델 설계 & 튜닝 |           |          | EDA <br> User data 전처리 <br> 모델 일반화 작업 | EDA <br> LightGbm 모델 설계 & 튜닝        |
+| EDA <br> category 전처리 <br> CatBoost 모델 설계 & 튜닝 |           |          | EDA <br> User data 전처리 <br> 모델 일반화 작업 | EDA <br> LightGbm 모델 설계 & 튜닝 |
 
-## TOC
+## :pushpin: TOC
 ### [Project](#project)
 - [1. EDA](#eda)
 - [2. Preprocessing](#preprocessing)
@@ -33,7 +33,7 @@
 ### [Environment Requirements](#environment-requirements)
 ### [Result](#result)
 
-## Project
+## :trident: Project
 1. ### EDA
 
 2. ### Preprocessing
@@ -44,13 +44,13 @@
 
 5. ### Ensemble
 
-## Project Architecture
+## :mortar_board: Project Architecture
 
 
-## Environment Requirements
+## :floppy_disk: Environment Requirements
 [requirements.txt](https://github.com/boostcampaitech6/level1-bookratingprediction-recsys-05/blob/main/requirements.txt)
 
-## Result
+## :tada: Result
 
 | 리더보드 | RMSE   | 순위 |
 | -------- | ------ | ---- |
