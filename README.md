@@ -20,7 +20,7 @@
 | **이원희** | **허 욱** | **이승준** | **곽윤석** | **배건우** |
 | :------: |  :------: | :------: | :------: | :------: |
 | [<img src="https://avatars.githubusercontent.com/u/64073392?v=4" height=150 width=150> <br/> @lostdesire](https://github.com/lostdesire) | [<img src="https://avatars.githubusercontent.com/u/61164286?v=4" height=150 width=150> <br/> @wooksbaby](https://github.com/wooksbaby) | [<img src="https://avatars.githubusercontent.com/u/133944361?v=4" height=150 width=150> <br/> @llseungjun](https://github.com/llseungjun) | [<img src="https://avatars.githubusercontent.com/u/149780979?v=4" height=150 width=150> <br/> @younne123](https://github.com/younne123) | [<img src="https://avatars.githubusercontent.com/u/83867930?v=4" height=150 width=150> <br/> @gunwoof](https://github.com/gunwoof) |
-| EDA <br> category 전처리 <br> CatBoost 모델 설계 & 튜닝 |           |          | EDA <br> User data 전처리 <br> 모델 일반화 작업 | EDA <br> LightGbm 모델 설계 & 튜닝 |
+| EDA <br> category 전처리 <br> CatBoost 모델 설계 & 튜닝 |           | EDA <br> book language 전처리 <br> CNN_FM 하이퍼파라미터 튜닝 | EDA <br> User data 전처리 <br> 모델 일반화 작업 | EDA <br> LightGbm 모델 설계 & 튜닝 |
 
 ## :pushpin: TOC
 ### [Project](#project)
@@ -45,12 +45,15 @@
 5. ### Ensemble
 
 ## :mortar_board: Project Architecture
+![5EFCC5CE-63CD-4D46-9104-F11F431CAEF9_1_201_a](https://github.com/lostdesire/Level1-BookRatingPrediction/assets/64073392/ba413a3b-922e-4eb9-849b-e63dd4aadbcd)
 
 
 ## :floppy_disk: Environment Requirements
 [requirements.txt](https://github.com/boostcampaitech6/level1-bookratingprediction-recsys-05/blob/main/requirements.txt)
 
 ## :tada: Result
+<img width="1091" alt="Pasted image 20231222200217" src="https://github.com/lostdesire/Level1-BookRatingPrediction/assets/64073392/4c535cd9-5453-42d4-9c4c-82d7a4db67ae">
+<img width="1092" alt="Pasted image 20231222200241" src="https://github.com/lostdesire/Level1-BookRatingPrediction/assets/64073392/0af88b59-3218-438d-812b-9a2f634da755">
 
 | 리더보드 | RMSE   | 순위 |
 | -------- | ------ | ---- |
