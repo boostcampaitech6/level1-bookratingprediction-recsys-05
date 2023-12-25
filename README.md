@@ -3,7 +3,7 @@
 일반적으로 책 한 권은 원고지 기준 800~1000매 정도 되는 분량을 가지고 있습니다.
 
 뉴스기사나 짧은 러닝 타임의 동영상처럼 간결하게 콘텐츠를 즐길 수 있는 ‘숏폼 콘텐츠’는 소비자들이 부담 없이 쉽게 선택할 수 있지만,\
-책 한권을 모두 읽기 위해서는 보다 긴 물리적인 시간이 필요합니다.\
+책 한 권을 모두 읽기 위해서는 보다 긴 물리적인 시간이 필요합니다.\
 또한 소비자 입장에서는 제목, 저자, 표지, 카테고리 등 한정된 정보로 각자가 콘텐츠를 유추하고 구매 유무를 결정해야 하기 때문에\
 상대적으로 선택에 더욱 신중을 가하게 됩니다.
 
@@ -14,7 +14,7 @@
 이번 대회에서는 각 사용자가 주어진 책에 대해 얼마나 평점을 부여할지에 대해 예측하게 됩니다.
 
 # :books: Stack
-<img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/VS Code-007ACC?style=plastic&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=Jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/VS Code-007ACC?style=plastic&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=Jupyter&logoColor=white"/>
 
 # :star: Team
 | **이원희** | **허 욱** | **이승준** | **곽윤석** | **배건우** |
@@ -23,15 +23,15 @@
 | EDA <br> category 전처리 <br> CatBoost 모델 설계 & 튜닝 |           | EDA <br> book language 전처리 <br> CNN_FM 하이퍼파라미터 튜닝 | EDA <br> User data 전처리 <br> 모델 일반화 작업 | EDA <br> LightGbm 모델 설계 & 튜닝 |
 
 ## :pushpin: TOC
-### [Project](#project)
-- [1. EDA](#eda)
-- [2. Preprocessing](#preprocessing)
-- [3. Model](#model)
-- [4. Hyperparameter Tuning](#hyperparameter-tuning)
-- [5. Ensemble](#ensemble)
-### [Project Architecture](#project-architecture)
-### [Environment Requirements](#environment-requirements)
-### [Result](#result)
+- [Project](#trident-project)
+  - [1. EDA](#eda)
+  - [2. Preprocessing](#preprocessing)
+  - [3. Model](#model)
+  - [4. Hyperparameter Tuning](#hyperparameter-tuning)
+  - [5. Ensemble](#ensemble)
+- [Project Architecture](#mortar_board-project-architecture)
+- [Environment Requirements](#floppy_disk-environment-requirements)
+- [Result](#tada-result)
 
 ## :trident: Project
 1. ### EDA
