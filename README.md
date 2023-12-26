@@ -62,7 +62,6 @@
 ## :mortar_board: Project Architecture
 ![Project_Architecture](https://github.com/boostcampaitech6/level1-bookratingprediction-recsys-05/assets/64073392/91109e60-4fae-4c1a-bae1-e84823160869)
 
-
 ## :floppy_disk: Environment Requirements
 [requirements.txt](https://github.com/boostcampaitech6/level1-bookratingprediction-recsys-05/blob/main/requirements.txt)
 
