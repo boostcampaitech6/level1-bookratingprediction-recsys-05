@@ -60,7 +60,8 @@
   - 최종 Ensemble
     - CatBoost_v1 : CatBoost_v2 : CatBoost_v3 : CatBoost_v4 : CNN_FM = 2 : 2 : 2 : 2 : 2
 ## :mortar_board: Project Architecture
-![Project Architecture](https://github.com/lostdesire/Level1-BookRatingPrediction/assets/64073392/ba413a3b-922e-4eb9-849b-e63dd4aadbcd)
+![Project_Architecture](https://github.com/boostcampaitech6/level1-bookratingprediction-recsys-05/assets/64073392/91109e60-4fae-4c1a-bae1-e84823160869)
+
 
 ## :floppy_disk: Environment Requirements
 [requirements.txt](https://github.com/boostcampaitech6/level1-bookratingprediction-recsys-05/blob/main/requirements.txt)
